@@ -1,19 +1,40 @@
-<p align="center">
-  <img src="assets/header.svg" alt="Emandoyesus Tesfaye — Fullstack and Mobile Developer" width="100%" />
-</p>
+<div align="center">
 
-I build web and mobile products end to end, with React and React Native on the front end, Node.js APIs, and PostgreSQL behind them. My focus is clean architecture, type safety, and software that holds up in production.
+<img src="assets/header.svg" alt="Emandoyesus Tesfaye — Fullstack and Mobile Developer" width="100%" />
 
-## What I do
+**From the first component to the final API.**
 
-| Web & mobile | Backend & data | Engineering |
-| :--- | :--- | :--- |
-| React · React Native | Node.js · PostgreSQL | TypeScript · Docker · Git |
-| Thoughtful, responsive interfaces | APIs and application data | Maintainable, production-minded code |
+<a href="https://github.com/emandoyesus?tab=followers"><img src="https://img.shields.io/github/followers/emandoyesus?style=for-the-badge&amp;color=0891b2&amp;labelColor=0d1524&amp;logo=github&amp;label=Followers" alt="GitHub followers" /></a>
+<a href="https://github.com/emandoyesus?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-22d3ee?style=for-the-badge&amp;labelColor=0d1524&amp;logo=github" alt="Explore repositories" /></a>
+<img src="https://img.shields.io/badge/Focus-Web%20%2B%20Mobile-34d399?style=for-the-badge&amp;labelColor=0d1524" alt="Focus: web and mobile development" />
 
-Currently building fullstack web and mobile applications. Happy to talk about React, React Native, and Node.js.
+</div>
 
-## Tools I work with
+---
+
+### 01 / Behind the code
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+**Hey, I'm Emandoyesus 👋**
+
+I build fullstack web and mobile applications, connecting thoughtful interfaces with reliable backends.
+
+My everyday toolkit is **React, React Native, Node.js, and PostgreSQL**. I care about clean architecture, type safety, and shipping work that holds up in production.
+
+**Currently:** building web and mobile products.<br />
+**Ask me about:** React, React Native, or Node.js.
+
+</td>
+<td width="48%" valign="middle">
+<img src="assets/terminal.svg" width="100%" alt="Animated developer terminal showing my web, mobile, and backend focus" />
+</td>
+</tr>
+</table>
+
+### 02 / My toolkit
 
 <div align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -42,22 +63,33 @@ Currently building fullstack web and mobile applications. Happy to talk about Re
   </a>
 </div>
 
+<p align="center"><sub>TypeScript · React · React Native · Node.js · Tailwind CSS · PostgreSQL · Docker · Git</sub></p>
 
-## Contribution activity
+| Interfaces | Behind the scenes | How I build |
+| :--- | :--- | :--- |
+| Web & mobile experiences | APIs & application data | Type-safe code |
+| React & React Native | Node.js & PostgreSQL | Clean architecture |
+
+### 03 / The commit trail
 
 <a href="https://github.com/emandoyesus?tab=overview">
-  <img src="assets/activity.svg" alt="Daily GitHub contributions over the past year" width="100%" />
+<img src="assets/activity.svg" alt="Daily GitHub contributions over the past year; brighter cells indicate more activity" width="100%" />
 </a>
 
-<sub>Refreshed daily from GitHub. Brighter cells indicate more contributions.</sub>
+<p align="center"><sub>A year of building, one contribution at a time. Refreshed daily from GitHub.</sub></p>
+
+### 04 / Keep exploring
+
+<p align="center">
+<a href="https://github.com/emandoyesus?tab=repositories"><img src="https://img.shields.io/badge/View_my_work-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View my work on GitHub" /></a>
+<a href="https://github.com/emandoyesus"><img src="https://img.shields.io/badge/Find_me_on_GitHub-182638?style=for-the-badge&amp;logo=github&amp;logoColor=67e8f9" alt="Find me on GitHub" /></a>
+</p>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/emandoyesus?tab=repositories">Explore my repositories →</a>
-</p>
+<p align="center"><b>Thoughtfully designed. Carefully built. Always improving.</b></p>
 
-<!-- Activity maintenance: .github/workflows/activity.yml refreshes the calendar
-on the first workflow push and daily thereafter. Run “Refresh profile activity”
-manually in Actions if needed. The initial image is an honest pending state.
-The header animation runs once and respects prefers-reduced-motion. -->
+<!-- Maintenance: .github/workflows/activity.yml generates the real contribution
+calendar after pushing, then refreshes daily. You can also run it from Actions.
+Local SVG animations respect prefers-reduced-motion. Add verified social links
+here when available; all current links belong to emandoyesus. -->
