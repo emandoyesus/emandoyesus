@@ -4,7 +4,9 @@ import json
 import sys
 from pathlib import Path
 
-calendar = json.load(sys.stdin)['data']['user']['contributionsCollection']['contributionCalendar']
+user = json.load(sys.stdin)['data']['user']
+calendar = user['contributionsCollection']['contributionCalendar']
+stars = int(user['starredRepositories']['totalCount'])
 colors = ['#19283b', '#164e63', '#0e7490', '#06b6d4', '#67e8f9']
 levels = ['NONE', 'FIRST_QUARTILE', 'SECOND_QUARTILE', 'THIRD_QUARTILE', 'FOURTH_QUARTILE']
 svg = ['<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 222" role="img" aria-labelledby="title desc">',
@@ -31,3 +33,11 @@ for i, color in enumerate(colors):
     svg.append(f'<rect x="{720+i*15}" y="198" width="11" height="11" rx="2" fill="{color}"/>')
 svg.append('<text x="800" y="207" font-size="10" fill="#94a3b8">More</text></g></svg>')
 Path('assets/activity.svg').write_text('\n'.join(svg) + '\n')
+
+Path('assets/stars-given.svg').write_text(f'''<svg xmlns="http://www.w3.org/2000/svg" width="190" height="28" role="img" aria-label="Stars given: {stars}">
+<title>Stars given: {stars}</title>
+<rect width="190" height="28" rx="3" fill="#0d1524"/>
+<path d="M120 0h67q3 0 3 3v22q0 3-3 3h-67z" fill="#0891b2"/>
+<g fill="white" font-family="Verdana, sans-serif" font-size="10" text-anchor="middle">
+<text x="60" y="18">STARS GIVEN</text><text x="155" y="18">{stars}</text>
+</g></svg>\n''')

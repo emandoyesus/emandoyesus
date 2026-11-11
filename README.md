@@ -4,6 +4,8 @@
 
 **From the first component to the final API.**
 
+<img src="https://komarev.com/ghpvc/?username=emandoyesus&amp;style=for-the-badge&amp;color=0891b2&amp;label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/emandoyesus?tab=stars"><img src="assets/stars-given.svg" alt="Stars given — repositories I have starred" height="28" /></a>
 <a href="https://github.com/emandoyesus?tab=followers"><img src="https://img.shields.io/github/followers/emandoyesus?style=for-the-badge&amp;color=0891b2&amp;labelColor=0d1524&amp;logo=github&amp;label=Followers" alt="GitHub followers" /></a>
 <a href="https://github.com/emandoyesus?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-22d3ee?style=for-the-badge&amp;labelColor=0d1524&amp;logo=github" alt="Explore repositories" /></a>
 <img src="https://img.shields.io/badge/Focus-Web%20%2B%20Mobile-34d399?style=for-the-badge&amp;labelColor=0d1524" alt="Focus: web and mobile development" />
@@ -78,9 +80,11 @@ My everyday toolkit is **React, React Native, Node.js, and PostgreSQL**. I care 
 
 <p align="center"><sub>A year of building, one contribution at a time. Refreshed daily from GitHub.</sub></p>
 
-### 04 / Keep exploring
+### 04 / Let’s connect
 
 <p align="center">
+<a href="https://em-t.pro.et"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio at em-t.pro.et" /></a>
+<a href="https://t.me/vintage_01"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Connect on Telegram: @vintage_01" /></a>
 <a href="https://github.com/emandoyesus?tab=repositories"><img src="https://img.shields.io/badge/View_my_work-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View my work on GitHub" /></a>
 <a href="https://github.com/emandoyesus"><img src="https://img.shields.io/badge/Find_me_on_GitHub-182638?style=for-the-badge&amp;logo=github&amp;logoColor=67e8f9" alt="Find me on GitHub" /></a>
 </p>
@@ -91,5 +95,4 @@ My everyday toolkit is **React, React Native, Node.js, and PostgreSQL**. I care 
 
 <!-- Maintenance: .github/workflows/activity.yml generates the real contribution
 calendar after pushing, then refreshes daily. You can also run it from Actions.
-Local SVG animations respect prefers-reduced-motion. Add verified social links
-here when available; all current links belong to emandoyesus. -->
+Local SVG animations respect prefers-reduced-motion. Portfolio and Telegram links are supplied by the profile owner. -->
