@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" role="img" aria-labelledby="title desc">
+<title id="title">Emandoyesus Tesfaye — Fullstack and Mobile Developer</title>
+<desc id="desc">Building thoughtful products from interface to infrastructure.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#0d1524"/><stop offset="1" stop-color="#123044"/></linearGradient></defs>
+<style>@keyframes enter{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}.copy{animation:enter 1.2s ease-out both}.line{stroke-dasharray:700;stroke-dashoffset:0;animation:draw 2s ease-out both}@keyframes draw{from{stroke-dashoffset:700}to{stroke-dashoffset:0}}@media(prefers-reduced-motion:reduce){.copy,.line{animation:none}}</style>
+<rect width="900" height="230" rx="18" fill="url(#bg)"/>
+<g fill="none" stroke="#67e8f9" opacity=".12"><circle cx="820" cy="110" r="120"/><circle cx="820" cy="110" r="90"/><circle cx="820" cy="110" r="60"/></g>
+<g class="copy" font-family="system-ui, sans-serif"><text x="42" y="54" fill="#67e8f9" font-size="12" letter-spacing="3">FULLSTACK &amp; MOBILE DEVELOPER</text><text x="40" y="109" fill="#f1f5f9" font-size="38" font-weight="700">Emandoyesus Tesfaye</text><text x="42" y="146" fill="#b6c7d8" font-size="16">Thoughtful interfaces. Reliable APIs. Products built end to end.</text></g>
+<path class="line" d="M42 184H710" stroke="#22d3ee" stroke-width="2"/>
+</svg>
