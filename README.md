@@ -29,7 +29,7 @@ My everyday toolkit is **React, React Native, Node.js, and PostgreSQL**. I care 
 
 </td>
 <td width="48%" valign="middle">
-<img src="assets/terminal.svg" width="100%" alt="Animated developer terminal showing my web, mobile, and backend focus" />
+<img src="assets/portrait.svg" width="100%" alt="ASCII portrait of Emandoyesus, rendered from his photograph" />
 </td>
 </tr>
 </table>
