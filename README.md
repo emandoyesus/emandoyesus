@@ -1,5 +1,16 @@
 <div align="center">
 
+<img src="assets/header.svg" alt="Emandoyesus Tesfaye — Fullstack and Mobile Developer" width="100%" />
+
+<br />
+
+<a href="https://github.com/emandoyesus"><img src="https://img.shields.io/badge/GITHUB-EMANDOYESUS-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Emandoyesus on GitHub" /></a>
+<a href="https://em-t.pro.et"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0891b2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore my portfolio" /></a>
+<a href="https://www.linkedin.com/in/emandoyesus"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0891b2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+
+<br />
+<br />
+
 **From the first component to the final API.**
 
 <img src="https://komarev.com/ghpvc/?username=emandoyesus&amp;style=for-the-badge&amp;color=0891b2&amp;label=PROFILE+VIEWS" alt="Profile views" />
@@ -10,7 +21,11 @@
 
 ---
 
-### 01 / Behind the code
+<div align="center">
+
+## WHO AM I?
+
+</div>
 
 <table>
 <tr>
@@ -32,7 +47,26 @@ My everyday toolkit is **React, React Native, Node.js, and PostgreSQL**. I care 
 </tr>
 </table>
 
-### 02 / My toolkit
+<div align="center">
+
+**STILL LEARNING. STILL BUILDING. ALWAYS IMPROVING.**
+
+</div>
+
+---
+
+## A LITTLE REMINDER
+
+> Good software grows with every iteration.<br />
+> Everything here is part of learning, building, and making the next version better.
+
+---
+
+<div align="center">
+
+## MY TECH STACK
+
+</div>
 
 <div align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -68,7 +102,13 @@ My everyday toolkit is **React, React Native, Node.js, and PostgreSQL**. I care 
 | Web & mobile experiences | APIs & application data | Type-safe code |
 | React & React Native | Node.js & PostgreSQL | Clean architecture |
 
-### 03 / The commit trail
+---
+
+<div align="center">
+
+## MY CONTRIBUTIONS
+
+</div>
 
 <a href="https://github.com/emandoyesus?tab=overview">
 <img src="assets/activity.svg" alt="Daily GitHub contributions over the past year; brighter cells indicate more activity" width="100%" />
@@ -76,17 +116,69 @@ My everyday toolkit is **React, React Native, Node.js, and PostgreSQL**. I care 
 
 <p align="center"><sub>A year of building, one contribution at a time. Refreshed daily from GitHub.</sub></p>
 
-### 04 / Let’s connect
+---
+
+<div align="center">
+
+## WHAT I BUILD
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### WEB & MOBILE
+
+Thoughtful interfaces that connect web and mobile experiences with reliable backends.
+
+<code>React</code> <code>React Native</code> <code>TypeScript</code>
+
+</td>
+<td width="50%" valign="top">
+
+### APIs & APPLICATION DATA
+
+The backend behind the experience, with clean architecture and type safety in mind.
+
+<code>Node.js</code> <code>PostgreSQL</code> <code>Docker</code>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://em-t.pro.et"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-0891b2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore my work on my portfolio" /></a>
+<a href="https://github.com/emandoyesus?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_REPOSITORIES-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Browse my GitHub repositories" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+## LET’S CONNECT
+
+</div>
 
 <p align="center">
 <a href="https://em-t.pro.et"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio at em-t.pro.et" /></a>
-<a href="https://www.linkedin.com/in/emandoyesus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn: @emandoyesus" /></a>
-<a href="https://t.me/vintage_01"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Connect on Telegram: @vintage_01" /></a>
+<a href="https://www.linkedin.com/in/emandoyesus"><img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn: @emandoyesus" /></a>
+<a href="https://t.me/vintage_01"><img src="https://img.shields.io/badge/Telegram-0891b2?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Connect on Telegram: @vintage_01" /></a>
 </p>
 
 ---
 
-<p align="center"><b>Thoughtfully designed. Carefully built. Always improving.</b></p>
+<div align="center">
+
+### THANKS FOR STOPPING BY
+
+**Thoughtfully designed. Carefully built. Always improving.**
+
+<a href="https://t.me/vintage_01"><img src="https://img.shields.io/badge/SAY_HELLO-0891b2?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Say hello on Telegram" /></a>
+
+</div>
 
 <!-- Maintenance: .github/workflows/activity.yml generates the real contribution
 calendar after pushing, then refreshes daily. You can also run it from Actions.
