@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Emandoyesus Tesfaye — Fullstack and Mobile Developer" width="100%" />
-
-<br />
-
 <a href="https://github.com/emandoyesus"><img src="https://img.shields.io/badge/GITHUB-EMANDOYESUS-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Emandoyesus on GitHub" /></a>
 <a href="https://em-t.pro.et"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0891b2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore my portfolio" /></a>
 <a href="https://www.linkedin.com/in/emandoyesus"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0891b2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
@@ -78,6 +74,9 @@ My everyday toolkit is **React, React Native, Node.js, and PostgreSQL**. I care 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original-wordmark.svg" alt="React Native" width="40" height="40" />
   </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" />
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   </a>
@@ -95,7 +94,7 @@ My everyday toolkit is **React, React Native, Node.js, and PostgreSQL**. I care 
   </a>
 </div>
 
-<p align="center"><sub>TypeScript · React · React Native · Node.js · Tailwind CSS · PostgreSQL · Docker · Git</sub></p>
+<p align="center"><sub>TypeScript · React · React Native · Flutter · Node.js · Tailwind CSS · PostgreSQL · Docker · Git</sub></p>
 
 | Interfaces | Behind the scenes | How I build |
 | :--- | :--- | :--- |
@@ -176,13 +175,13 @@ A collaborative employee management system with a JavaFX interface, remote clien
 <tr>
 <td colspan="2" valign="top">
 
-### [Portfolio 2](https://github.com/emandoyesus/portfolio_2)
+### [Personal Portfolio](https://github.com/emandoyesus/Personal-Portfolio)
 
 My personal portfolio project.
 
 <code>Portfolio</code> <code>Web Development</code>
 
-[<img src="https://img.shields.io/badge/VIEW_PROJECT-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Portfolio 2" />](https://github.com/emandoyesus/portfolio_2)
+[<img src="https://img.shields.io/badge/VIEW_PROJECT-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Personal Portfolio" />](https://github.com/emandoyesus/Personal-Portfolio)
 
 </td>
 </tr>
