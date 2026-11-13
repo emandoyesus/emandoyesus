@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Emandoyesus Tesfaye — Fullstack and Mobile Developer" width="100%" />
-
 **From the first component to the final API.**
 
 <img src="https://komarev.com/ghpvc/?username=emandoyesus&amp;style=for-the-badge&amp;color=0891b2&amp;label=PROFILE+VIEWS" alt="Profile views" />
