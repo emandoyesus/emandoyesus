@@ -158,16 +158,20 @@ A collaborative employee management system with a JavaFX interface, client-serve
 ## GitHub activity
 
 <a href="https://github.com/emandoyesus?tab=overview">
-<img src="assets/activity.svg" alt="GitHub streak stats showing total contributions, current streak, and longest streak" width="495" />
+<img src="assets/activity.svg" alt="Daily GitHub contributions over the past year; brighter cells indicate more activity" width="100%" />
 </a>
 
-<p><sub>Streak stats refreshed daily from GitHub.</sub></p>
+<p><sub>Contribution calendar and streak stats refreshed daily from GitHub.</sub></p>
 
 <a href="https://github.com/emandoyesus">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=emandoyesus&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1524&amp;title_color=22d3ee&amp;icon_color=22d3ee&amp;text_color=f1f5f9&amp;rank_icon=github" alt="Emandoyesus's GitHub stats" />
 </a>
 <a href="https://github.com/emandoyesus?tab=repositories">
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=emandoyesus&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1524&amp;title_color=22d3ee&amp;text_color=f1f5f9&amp;langs_count=8" alt="Emandoyesus's most used languages" />
+</a>
+
+<a href="https://github.com/emandoyesus?tab=overview">
+<img src="assets/streaks.svg" alt="GitHub streaks showing total contributions, current streak, and longest streak" width="495" />
 </a>
 
 </div>
@@ -186,6 +190,6 @@ A collaborative employee management system with a JavaFX interface, client-serve
 <a href="https://t.me/vintage_01"><img src="https://img.shields.io/badge/Telegram-0891b2?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Connect on Telegram: @vintage_01" /></a>
 </p>
 
-<!-- Maintenance: .github/workflows/activity.yml regenerates assets/activity.svg and
-assets/stars-given.svg on push and daily, then commits changes. Portfolio and Telegram
-links come from the profile owner. -->
+<!-- Maintenance: .github/workflows/activity.yml regenerates assets/activity.svg,
+assets/streaks.svg, and assets/stars-given.svg on push and daily, then commits changes.
+Portfolio and Telegram links come from the profile owner. -->
