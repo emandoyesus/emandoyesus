@@ -59,10 +59,10 @@ def main():
     for y, cells in enumerate(shaded_rows):
         spans = []
         for shade, run in groupby(cells, key=lambda cell: cell[0]):
-            # Cyan shades supplement character density for smoother lips.
+            # Warm red shades supplement character density for smoother lips.
             strength = 0.65 + 0.35 * shade / 31
             color = '#' + ''.join(f'{round(a + (b - a) * strength):02x}'
-                                  for a, b in zip((13, 21, 36), (103, 232, 249)))
+                                  for a, b in zip((30, 10, 14), (255, 120, 130)))
             characters = escape(''.join(char for _, char in run))
             spans.append(f'<tspan fill="{color}">{characters}</tspan>')
         lines.append(f'<text x="22" y="{60 + y * CELL_HEIGHT + FONT_SIZE:.2f}">{"".join(spans)}</text>')
@@ -70,10 +70,10 @@ def main():
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 440 490" role="img" aria-labelledby="title desc">
 <title id="title">Emandoyesus — ASCII portrait</title>
 <desc id="desc">A portrait of Emandoyesus rendered entirely in {COLUMNS} by {ROWS} shaded monospace characters sampled from his photograph, with soft focus and faint offset echoes.</desc>
-<rect x="1" y="1" width="438" height="488" rx="14" fill="#0d1524" stroke="#24384d"/>
-<path d="M1 42H439" stroke="#24384d"/>
+<rect x="1" y="1" width="438" height="488" rx="14" fill="#160c10" stroke="#4a232d"/>
+<path d="M1 42H439" stroke="#4a232d"/>
 <circle cx="21" cy="22" r="4" fill="#fb7185"/><circle cx="37" cy="22" r="4" fill="#fbbf24"/><circle cx="53" cy="22" r="4" fill="#34d399"/>
-<text x="80" y="26" font-family="monospace" font-size="11" fill="#94a3b8">emandoyesus / portrait.txt</text>
+<text x="80" y="26" font-family="monospace" font-size="11" fill="#d0a8b2">emandoyesus / portrait.txt</text>
 <defs>
 <filter id="haze" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB">
 <feGaussianBlur stdDeviation="0.38"/>
