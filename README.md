@@ -158,10 +158,10 @@ A collaborative employee management system with a JavaFX interface, client-serve
 ## GitHub activity
 
 <a href="https://github.com/emandoyesus?tab=overview">
-<img src="assets/activity.svg" alt="Daily GitHub contributions over the past year; brighter cells indicate more activity" width="100%" />
+<img src="assets/activity.svg" alt="GitHub streak stats showing total contributions, current streak, and longest streak" width="495" />
 </a>
 
-<p><sub>Contribution calendar and streaks refreshed daily from GitHub.</sub></p>
+<p><sub>Streak stats refreshed daily from GitHub.</sub></p>
 
 <a href="https://github.com/emandoyesus">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=emandoyesus&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1524&amp;title_color=22d3ee&amp;icon_color=22d3ee&amp;text_color=f1f5f9&amp;rank_icon=github" alt="Emandoyesus's GitHub stats" />

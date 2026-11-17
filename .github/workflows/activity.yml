@@ -19,15 +19,16 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch public contribution calendar
+      # Optional PROFILE_TOKEN secret with read:user scope includes private contributions.
+      - name: Fetch contribution calendar
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
           PROFILE_OWNER: ${{ github.repository_owner }}
         run: |
           set -euo pipefail
-          gh api --retry 3 graphql -f login="$PROFILE_OWNER" -f query='query($login:String!){user(login:$login){starredRepositories{totalCount} contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{date weekday contributionCount contributionLevel}}}}}}' > /tmp/calendar.json
+          gh api --retry 3 graphql -f login="$PROFILE_OWNER" -f query='query($login:String!){user(login:$login){starredRepositories{totalCount} contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{date contributionCount}}}}}}' > /tmp/calendar.json
           python3 scripts/activity.py < /tmp/calendar.json
-      - name: Save refreshed grid
+      - name: Save refreshed stats
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
