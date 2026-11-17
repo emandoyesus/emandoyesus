@@ -4,7 +4,7 @@
 
 **Full-stack web & mobile developer** · interfaces, APIs, and the data behind them.
 
-<img src="https://komarev.com/ghpvc/?username=emandoyesus&amp;style=for-the-badge&amp;color=e11d48&amp;label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=emandoyesus&amp;style=for-the-badge&amp;color=0891b2&amp;label=PROFILE+VIEWS" alt="Profile views" />
 <a href="https://github.com/emandoyesus?tab=stars"><img src="assets/stars-given.svg" alt="Stars given — repositories I have starred" height="28" /></a>
 
 </div>
@@ -30,6 +30,11 @@ I like the moment an idea becomes something people can actually use, and I care 
 
 **Approach**  
 > My work leans toward **clean architecture, type safety, and reliable backends**. Each project is a chance to sharpen those instincts and make the next version better.
+
+<br />
+
+**Deep interest**  
+Cyber security — secure design, defensive thinking, and software that holds up under scrutiny.
 
 <br />
 
@@ -93,6 +98,8 @@ A shared late-night focus room with synchronized music, live chat, and a countdo
 
 <code>SvelteKit</code> <code>Tailwind CSS</code> <code>MQTT</code>
 
+<a href="https://github.com/emandoyesus/All-Nighter"><img src="https://img.shields.io/badge/View%20project-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View All-Nighter on GitHub" /></a>
+
 </td>
 <td width="50%" valign="top">
 
@@ -101,6 +108,8 @@ A shared late-night focus room with synchronized music, live chat, and a countdo
 A film academy site with program discovery, enrollment applications, a studio portfolio, and an admin console.
 
 <code>React</code> <code>TypeScript</code> <code>Firebase</code>
+
+<a href="https://github.com/emandoyesus/Addisalem-Film-Academy"><img src="https://img.shields.io/badge/View%20project-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Addisalem Film Academy on GitHub" /></a>
 
 </td>
 </tr>
@@ -113,6 +122,8 @@ A movie discovery platform with live search, trailers, and personal watchlists.
 
 <code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>TMDB API</code>
 
+<a href="https://github.com/emandoyesus/Movie-Explorer"><img src="https://img.shields.io/badge/View%20project-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Movie Explorer — AXORA on GitHub" /></a>
+
 </td>
 <td width="50%" valign="top">
 
@@ -121,6 +132,8 @@ A movie discovery platform with live search, trailers, and personal watchlists.
 A collaborative employee management system with a JavaFX interface, client-server communication over RMI, and MySQL storage.
 
 <code>Java</code> <code>JavaFX</code> <code>RMI</code> <code>MySQL</code>
+
+<a href="https://github.com/emandoyesus/Java-EMS"><img src="https://img.shields.io/badge/View%20project-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Java EMS on GitHub" /></a>
 
 </td>
 </tr>
@@ -141,10 +154,10 @@ A collaborative employee management system with a JavaFX interface, client-serve
 <p><sub>Contribution calendar refreshed daily from GitHub.</sub></p>
 
 <a href="https://github.com/emandoyesus">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=emandoyesus&amp;show_icons=true&amp;hide_border=true&amp;bg_color=160c10&amp;title_color=fb7185&amp;icon_color=fb7185&amp;text_color=f1f5f9&amp;rank_icon=github" alt="Emandoyesus's GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=emandoyesus&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1524&amp;title_color=22d3ee&amp;icon_color=22d3ee&amp;text_color=f1f5f9&amp;rank_icon=github" alt="Emandoyesus's GitHub stats" />
 </a>
 <a href="https://github.com/emandoyesus?tab=repositories">
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=emandoyesus&amp;layout=compact&amp;hide_border=true&amp;bg_color=160c10&amp;title_color=fb7185&amp;text_color=f1f5f9&amp;langs_count=8" alt="Emandoyesus's most used languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=emandoyesus&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1524&amp;title_color=22d3ee&amp;text_color=f1f5f9&amp;langs_count=8" alt="Emandoyesus's most used languages" />
 </a>
 
 </div>
@@ -158,9 +171,9 @@ A collaborative employee management system with a JavaFX interface, client-serve
 </div>
 
 <p align="center">
-<a href="https://em-t.pro.et"><img src="https://img.shields.io/badge/Portfolio-e11d48?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio at em-t.pro.et" /></a>
-<a href="https://www.linkedin.com/in/emandoyesus"><img src="https://img.shields.io/badge/LinkedIn-e11d48?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn: @emandoyesus" /></a>
-<a href="https://t.me/vintage_01"><img src="https://img.shields.io/badge/Telegram-e11d48?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Connect on Telegram: @vintage_01" /></a>
+<a href="https://em-t.pro.et"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio at em-t.pro.et" /></a>
+<a href="https://www.linkedin.com/in/emandoyesus"><img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn: @emandoyesus" /></a>
+<a href="https://t.me/vintage_01"><img src="https://img.shields.io/badge/Telegram-0891b2?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Connect on Telegram: @vintage_01" /></a>
 </p>
 
 <!-- Maintenance: .github/workflows/activity.yml regenerates assets/activity.svg and
