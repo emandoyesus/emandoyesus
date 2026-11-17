@@ -1,8 +1,10 @@
 <div align="center">
 
-# Emandoyesus
+<img src="assets/header.svg" width="100%" alt="Abstract banner linking an interface, an API, and a database" />
 
-**Full-stack web & mobile developer**
+# Emandoyesus Tesfaye
+
+**Full-stack web & mobile developer** · interfaces, APIs, and the data behind them.
 
 <img src="https://komarev.com/ghpvc/?username=emandoyesus&amp;style=for-the-badge&amp;color=0891b2&amp;label=PROFILE+VIEWS" alt="Profile views" />
 <a href="https://github.com/emandoyesus?tab=stars"><img src="assets/stars-given.svg" alt="Stars given — repositories I have starred" height="28" /></a>
@@ -21,9 +23,11 @@
 <tr>
 <td width="52%" valign="top">
 
-I build applications from the first interface to the API and database behind it. I enjoy turning an idea into something useful, with thoughtful interactions and code that is easy to maintain.
+I build applications end to end — from the first interface to the API and database behind it. I like the moment an idea becomes something people can actually use, and I care about the details that make it last.
 
-My approach centers on **clean architecture, type safety, and reliable backends**. Each project is a chance to learn, refine my decisions, and make the next version better.
+My work leans toward **clean architecture, type safety, and reliable backends**. Each project is a chance to sharpen those instincts and make the next version better.
+
+**Focus:** TypeScript · React · React Native · Node.js · PostgreSQL
 
 </td>
 <td width="48%" valign="middle">
@@ -36,41 +40,57 @@ My approach centers on **clean architecture, type safety, and reliable backends*
 
 <div align="center">
 
+## How I work
+
+</div>
+
+<table>
+<tr>
+<td width="46%" valign="middle">
+<img src="assets/terminal.svg" width="100%" alt="Stylized terminal showing Emandoyesus's focus, backend stack, and approach" />
+</td>
+<td width="54%" valign="top">
+
+- **Start with the user.** Shape the interaction before choosing the tools.
+- **Keep contracts clear.** Typed boundaries between UI, API, and storage.
+- **Make it maintainable.** Small modules, honest names, and tests around behavior that matters.
+- **Ship, then refine.** A working version teaches more than a perfect plan.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
 ## Tech stack
 
 </div>
 
+<p align="center"><sub><strong>Frontend</strong></sub></p>
+
 <div align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original-wordmark.svg" alt="React Native" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original-wordmark.svg" alt="React Native" width="40" height="40" /></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a>
 </div>
 
-<p align="center"><sub>TypeScript · React · React Native · Flutter · Node.js · Tailwind CSS · PostgreSQL · Docker · Git</sub></p>
+<p align="center"><sub><strong>Backend &amp; data</strong></sub></p>
+
+<div align="center">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a>
+</div>
+
+<p align="center"><sub><strong>Tooling</strong></sub></p>
+
+<div align="center">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
+</div>
 
 ---
 
@@ -95,7 +115,7 @@ A shared late-night focus room with synchronized music, live chat, and a countdo
 
 ### [Addisalem Film Academy](https://github.com/emandoyesus/Addisalem-Film-Academy)
 
-A film academy website with program discovery, enrollment applications, a studio portfolio, and an admin console.
+A film academy site with program discovery, enrollment applications, a studio portfolio, and an admin console.
 
 <code>React</code> <code>TypeScript</code> <code>Firebase</code>
 
@@ -115,13 +135,15 @@ A movie discovery platform with live search, trailers, and personal watchlists.
 
 ### [Java EMS](https://github.com/emandoyesus/Java-EMS)
 
-A collaborative employee management system with a JavaFX interface, remote client-server communication, and MySQL storage.
+A collaborative employee management system with a JavaFX interface, client-server communication over RMI, and MySQL storage.
 
 <code>Java</code> <code>JavaFX</code> <code>RMI</code> <code>MySQL</code>
 
 </td>
 </tr>
 </table>
+
+<p align="center"><a href="https://github.com/emandoyesus?tab=repositories">Browse all repositories →</a></p>
 
 ---
 
@@ -158,6 +180,6 @@ A collaborative employee management system with a JavaFX interface, remote clien
 <a href="https://t.me/vintage_01"><img src="https://img.shields.io/badge/Telegram-0891b2?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Connect on Telegram: @vintage_01" /></a>
 </p>
 
-<!-- Maintenance: .github/workflows/activity.yml generates the real contribution
-calendar after pushing, then refreshes daily. You can also run it from Actions.
-Local SVG animations respect prefers-reduced-motion. Portfolio and Telegram links are supplied by the profile owner. -->
+<!-- Maintenance: .github/workflows/activity.yml regenerates assets/activity.svg and
+assets/stars-given.svg on push and daily, then commits changes. Local SVG animations
+respect prefers-reduced-motion. Portfolio and Telegram links come from the profile owner. -->
