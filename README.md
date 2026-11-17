@@ -23,11 +23,20 @@
 <tr>
 <td width="52%" valign="top">
 
-I build applications end to end — from the first interface to the API and database behind it. I like the moment an idea becomes something people can actually use, and I care about the details that make it last.
+### I build applications end to end — from the first interface to the API and database behind it.
 
-My work leans toward **clean architecture, type safety, and reliable backends**. Each project is a chance to sharpen those instincts and make the next version better.
+**What drives me**  
+I like the moment an idea becomes something people can actually use, and I care about the details that make it last.
 
-**Focus:** TypeScript · React · React Native · Node.js · PostgreSQL
+<br />
+
+**Approach**  
+> My work leans toward **clean architecture, type safety, and reliable backends**. Each project is a chance to sharpen those instincts and make the next version better.
+
+<br />
+
+**Focus**  
+TypeScript · React · React Native · Node.js · PostgreSQL
 
 </td>
 <td width="48%" valign="middle">
