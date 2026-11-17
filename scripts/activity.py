@@ -3,12 +3,49 @@ import html
 import json
 import sys
 from calendar import month_abbr
+from datetime import date, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
 COLORS = ['#19283b', '#164e63', '#0e7490', '#06b6d4', '#67e8f9']
 LEVELS = ['NONE', 'FIRST_QUARTILE', 'SECOND_QUARTILE', 'THIRD_QUARTILE', 'FOURTH_QUARTILE']
+
+
+def day_label(count: int) -> str:
+    return 'day' if count == 1 else 'days'
+
+
+def calculate_streaks(days: list[dict]) -> tuple[int, int]:
+    active = sorted({
+        date.fromisoformat(day['date'])
+        for day in days
+        if int(day['contributionCount']) > 0
+    })
+    active_set = set(active)
+
+    # GitHub still counts yesterday's run until today has contributions.
+    today = date.today()
+    current = 0
+    if today in active_set:
+        cursor = today
+    elif today - timedelta(days=1) in active_set:
+        cursor = today - timedelta(days=1)
+    else:
+        cursor = None
+    while cursor is not None and cursor in active_set:
+        current += 1
+        cursor -= timedelta(days=1)
+
+    longest = 0
+    run = 0
+    previous = None
+    for day in active:
+        run = run + 1 if previous is not None and (day - previous).days == 1 else 1
+        longest = max(longest, run)
+        previous = day
+
+    return current, longest
 
 
 def main() -> None:
@@ -20,17 +57,28 @@ def main() -> None:
 
     stars = int(user['starredRepositories']['totalCount'])
     total = int(calendar['totalContributions'])
-    first_day = weeks[0]['contributionDays'][0]['date']
-    last_day = weeks[-1]['contributionDays'][-1]['date']
+    days = [day for week in weeks for day in week['contributionDays']]
+    if not days:
+        raise SystemExit('No contribution days returned by GitHub')
+    current_streak, longest_streak = calculate_streaks(days)
+    first_day = days[0]['date']
+    last_day = days[-1]['date']
 
     svg = [
         '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 222" role="img" aria-labelledby="title desc">',
         '<title id="title">GitHub contribution activity</title>',
-        f'<desc id="desc">{total:,} contributions between {first_day} and {last_day}. Brighter cells indicate more activity.</desc>',
+        f'<desc id="desc">{total:,} contributions between {first_day} and {last_day}. '
+        f'Current streak: {current_streak} {day_label(current_streak)}. '
+        f'Longest streak: {longest_streak} {day_label(longest_streak)}. '
+        'Brighter cells indicate more activity.</desc>',
         '<rect width="900" height="222" rx="16" fill="#0d1524"/>',
         '<g font-family="system-ui,sans-serif" fill="#e2e8f0">',
         '<text x="28" y="36" font-size="16" font-weight="600">A year of building</text>',
         f'<text x="28" y="58" font-size="12" fill="#94a3b8">{total:,} contributions in the past year</text>',
+        f'<text x="872" y="36" font-size="12" fill="#67e8f9" font-weight="600" text-anchor="end">'
+        f'Current streak: {current_streak} {day_label(current_streak)}</text>',
+        f'<text x="872" y="58" font-size="12" fill="#94a3b8" text-anchor="end">'
+        f'Longest streak: {longest_streak} {day_label(longest_streak)}</text>',
     ]
 
     last_month = None
