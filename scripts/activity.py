@@ -137,8 +137,8 @@ def render_streaks(
 <text x="82.5" y="110" fill="#8B949E" font-size="9">{format_full(first_day)} - Present</text>
 <circle cx="247.5" cy="66" r="30" fill="none" stroke="#30363D" stroke-width="5"/>
 <circle cx="247.5" cy="66" r="30" fill="none" stroke="{BLUE}" stroke-width="5" stroke-linecap="round" stroke-dasharray="150 39" transform="rotate(-90 247.5 66)"/>
-<path d="M247.5 27c5.2 6.3 7.8 10.2 7.8 14.2a7.8 7.8 0 0 1-15.6 0c0-4 2.6-7.9 7.8-14.2z" fill="{BLUE}"/>
-<path d="M247.5 34c2.6 3.2 3.9 5.2 3.9 7.2a3.9 3.9 0 0 1-7.8 0c0-2 1.3-4 3.9-7.2z" fill="{LIGHT_BLUE}"/>
+<path d="M247.5 27c5.2 6.3 7.8 10.2 7.8 14.2a7.8 7.8 0 0 1-15.6 0c0-4 2.6-7.9 7.8-14.2z" fill="#ef4444"/>
+<path d="M247.5 34c2.6 3.2 3.9 5.2 3.9 7.2a3.9 3.9 0 0 1-7.8 0c0-2 1.3-4 3.9-7.2z" fill="#fca5a5"/>
 <text x="247.5" y="73" fill="{BLUE}" font-size="26" font-weight="700">{current}</text>
 <text x="247.5" y="126" fill="#FFFFFF" font-size="11" font-weight="600">Current Streak</text>
 <text x="247.5" y="148" fill="#8B949E" font-size="9">{current_range}</text>

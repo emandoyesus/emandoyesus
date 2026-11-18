@@ -79,6 +79,7 @@ TypeScript · React · React Native · Node.js · PostgreSQL
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
   <a href="https://www.prisma.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40" /></a>
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original-wordmark.svg" alt="Firebase" width="40" height="40" /></a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" /></a>
 </div>
 
 <p align="center"><sub><strong>Tooling</strong></sub></p>
@@ -86,9 +87,11 @@ TypeScript · React · React Native · Node.js · PostgreSQL
 <div align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" /></a>
 </div>
 
-<p align="center"><sub>TypeScript · JavaScript · React · Next.js · React Native · Flutter · Svelte · Tailwind CSS · Node.js · Express · MongoDB · PostgreSQL · MySQL · Prisma · Firebase · Docker · Git</sub></p>
+<p align="center"><sub>TypeScript · JavaScript · React · Next.js · React Native · Flutter · Svelte · Tailwind CSS · Node.js · Express · MongoDB · PostgreSQL · MySQL · Prisma · Firebase · Supabase · Docker · Git · Linux · Postman</sub></p>
 
 ---
 
