@@ -194,5 +194,8 @@ A collaborative employee management system with a JavaFX interface, client-serve
 </p>
 
 <!-- Maintenance: .github/workflows/activity.yml regenerates assets/activity.svg,
-assets/streaks.svg, and assets/stars-given.svg on push and daily, then commits changes.
+assets/streaks.svg, and assets/stars-given.svg on relevant pushes and hourly, then commits changes.
+Stars given counts repositories currently starred by the profile owner; it is a
+scheduled snapshot, not a live counter. Use the workflow's Run workflow button
+for an immediate refresh.
 Portfolio and Telegram links come from the profile owner. -->

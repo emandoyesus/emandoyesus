@@ -1,7 +1,8 @@
 name: Refresh profile activity
 on:
   schedule:
-    - cron: '23 3 * * *'
+    # Stars given is a snapshot; refresh hourly to keep it reasonably current.
+    - cron: '23 * * * *'
   workflow_dispatch:
   push:
     branches: [main, master]
